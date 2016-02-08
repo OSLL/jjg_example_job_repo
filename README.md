@@ -3,7 +3,7 @@ Repository contains job examples for jenkins_job_gitizer project. It can be used
 
 ## Structure
 
-jobs/ - job yaml description. This folder will be used as a source of jobs for jjg. 
-templates/ - job templates
-groups/ - job groups
-includes/ - some files, which are included into other templates
+* jobs/ - job yaml description. This folder will be used as a source of jobs for jjg. 
+* templates/ - job templates
+* groups/ - job groups
+* includes/ - some files, which are included into other templates
