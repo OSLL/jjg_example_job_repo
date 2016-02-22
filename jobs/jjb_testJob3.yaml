@@ -1,0 +1,6 @@
+- job:
+    name: testJob3
+    description: "I am a generated job, please do not edit me by jenkins!"
+    builders:
+      - shell:
+          'echo "Hello, I am testJob2"'
